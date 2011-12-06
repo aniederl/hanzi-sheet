@@ -1,0 +1,133 @@
+%% Kanji writing practice sheets
+
+%% Note: This is a ConTeXt file, to be compiled using
+%% texexec --xtx sheet.tex
+
+%\usemodule[simplefonts]
+%\setmainfont[hiraginokakugothicpro]
+%\mainlanguage[ja]
+%\language[ja]
+
+
+\setuplayout[top=1cm,header=0pt,bottom=1cm,footer=0pt]
+
+%\setupunicodefont[japanese][scale=1.0]
+%\definefontsynonym [JapaneseMinchoRegular][cyberp]
+%\defineunicodefont [Mincho][JapaneseMincho][japanese]
+
+%\enableregime[utf]
+
+\usemodule[simplefonts]
+\setmainfont[stkaiti]
+
+%% Select the font to use here (end of line):
+%\definetypeface[base][rm][Xserif][STKaiti]
+%\definetypeface[base][rm][Xserif][stkaiti]
+\setupbodyfont[base, 12pt]
+\setuppagenumber[state=stop]
+\setupindenting[none]
+
+%% Change for different size:
+\def\kanjisize{15mm}
+\definefont[bigfont][Regular at \kanjisize]
+
+\startuseMPgraphic{line}
+  pickup pencircle scaled .7pt;
+  picture c, box;
+  c=\sometxt{\MPvar{c}};
+  color grey;
+  grey=0.8*white;
+  draw unitsquare scaled \kanjisize\space withcolor 0.25white;
+  pickup pencircle scaled 0.5pt;
+  draw .5[llcorner currentpicture,lrcorner currentpicture] --
+    .5[ulcorner currentpicture,urcorner currentpicture]
+    withcolor grey;
+  draw .5[llcorner currentpicture,ulcorner currentpicture] --
+    .5[lrcorner currentpicture,urcorner currentpicture]
+    withcolor grey;
+  draw llcorner currentpicture --
+    urcorner currentpicture
+    withcolor grey;
+  draw ulcorner currentpicture --
+    lrcorner currentpicture
+    withcolor grey;
+  box := currentpicture;
+  setbounds box to boundingbox box enlarged -1pt;
+  currentpicture := nullpicture;
+
+  numeric imax;
+  imax = 180mm/bbwidth(box);
+  draw box shifted (1*bbwidth(box), 0pt);
+  draw c shifted ((center box)-(center c) + (1*bbwidth(box), 0pt))
+    withcolor 0.1*white;
+  for i = 2 step 1 until imax:
+    %if i = 1:
+    %  draw c shifted ((center box)-(center c) + (i*bbwidth(box), 0pt))
+    %    withcolor (0.5+i/(imax+15))*white;
+    %fi;
+    draw box shifted (i*bbwidth(box), 0pt);
+  endfor;
+\stopuseMPgraphic
+
+\startuseMPgraphic{line2}
+  pickup pencircle scaled .7pt;
+  picture box;
+  color grey;
+  grey=0.8*white;
+  draw unitsquare shifted (0,240) scaled \kanjisize\space withcolor 0.25white;
+  pickup pencircle scaled 0.5pt;
+  draw .5[llcorner currentpicture,lrcorner currentpicture] --
+    .5[ulcorner currentpicture,urcorner currentpicture]
+    withcolor grey;
+  draw .5[llcorner currentpicture,ulcorner currentpicture] --
+    .5[lrcorner currentpicture,urcorner currentpicture]
+    withcolor grey;
+  draw llcorner currentpicture --
+    urcorner currentpicture
+    withcolor grey;
+  draw ulcorner currentpicture --
+    lrcorner currentpicture
+    withcolor grey;
+  box := currentpicture;
+  setbounds box to boundingbox box enlarged -1pt;
+
+  numeric imax;
+  imax = 180mm/bbwidth(box);
+  for i = 2 step 1 until imax-1:
+    draw box shifted (i*bbwidth(box), 0pt);
+  endfor;
+\stopuseMPgraphic
+
+
+
+\def\line#1{{%
+  \par
+  \leavevmode
+  %\hskip-1.75cm
+  \bigfont
+  \useMPgraphic{line}{c=#1}%
+  %\crlf
+  %\useMPgraphic{line2}%
+  \crlf
+  \par
+}}
+
+
+
+\starttext
+\line{你}
+\line{好}
+\line{大}
+\line{小}
+\line{高}
+\line{喜}
+\line{欢}
+\line{谁}
+\line{最}
+\line{近}
+\line{现}
+\line{在}
+\line{你}
+
+\stoptext
+
