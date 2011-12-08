@@ -1,0 +1,252 @@
+你	nǐ<br /><br /><br />du
+好	hǎo<br /><br /><br />gut
+你好	níhǎo<br /><br /><br />Hallo
+吗	ma<br /><br /><br />Frage-Partikel
+你好吗。	níhǎoma.<br /><br /><br />Wie geht es dir?
+口	kǒu<br /><br /><br />Mund
+马	mǎ<br /><br /><br />Pferd
+我	wǒ<br /><br /><br />Ich
+他	tā<br /><br /><br />Er
+她	tā<br /><br /><br />Sie
+您	nín<br /><br /><br />Sie (höfliche Anrede)
+呢	ne<br /><br /><br />Rückfrage-Partikel
+们	men<br /><br /><br />Plural-Partikel
+门	mén<br /><br /><br />Tür / Tor
+我们	<br /><br /><br />Wir
+很	hěn<br /><br /><br />sehr<br /><br />(Hilfswort für Prädikatbildung)
+也	yě<br /><br /><br />auch
+我很好。	<br /><br /><br />Mir geht es gut.
+你呢。	<br /><br /><br />Und dir?
+我也很好。	<br /><br /><br />Mir geht es auch gut.
+好吗。	<br /><br /><br />Ok? Gut?
+的	de<br /><br /><br />Zugehörigkeits-Partikel
+白	bái<br /><br /><br />weiss
+百	bǎi<br /><br /><br />Hundert
+日	rì<br /><br /><br />Sonne
+一	yī<br /><br /><br />1
+二	èr<br /><br /><br />2
+三	sān<br /><br /><br />3
+四	sì<br /><br /><br />4
+五	wǔ<br /><br /><br />5
+六	liù<br /><br /><br />6
+七	qī<br /><br /><br />7
+八	bā<br /><br /><br />8
+九	jiǔ<br /><br /><br />9
+十	shí<br /><br /><br />10
+千	qiān<br /><br /><br />1000
+万	wàn<br /><br /><br />10.000
+〇	líng<br /><br /><br />0
+女	nǚ<br /><br /><br />Frau
+子	zǐ<br /><br /><br />Kind
+月	yuè<br /><br /><br />Mond
+不	bù<br /><br /><br />Verneinung<br /><br />Aussprache in Ausnahmefällen: bú
+我不很好	<br /><br /><br />Mir geht es nicht gut.
+我的马	<br /><br /><br />Mein Pferd
+太	tài<br /><br /><br />sehr (stärker)
+我不太好。	<br /><br /><br />Mir geht es nicht sehr gut.
+马马虎虎。	mǎmǎhūhū<br /><br /><br />Solala.
+虎	hǔ<br /><br /><br />Tiger
+心	xīn<br /><br /><br />Herz
+亡	wáng<br /><br /><br />sterben / Tod
+忙	máng<br /><br /><br />beschäftigt sein
+谢谢。	xièxiè<br /><br /><br />Danke.
+红	hóng<br /><br /><br />rot
+骂	mà<br /><br /><br />schimpfen
+你忙不忙？	<br /><br /><br />Bist du beschäftigt oder nicht?
+您好。	<br /><br /><br />höfliche Begrüssung
+天	tiān<br /><br /><br />Himmel
+气	qi<br /><br /><br />Luft
+天气	<br /><br /><br />Wetter
+天气好吗。	<br /><br /><br />Wie ist das Wetter?
+今	jīn<br /><br /><br />heutiger-Partikel
+今天	<br /><br /><br />heute
+今天的天气好吗。	<br /><br /><br />Wie ist das heutige Wetter?
+明天	míngtiān<br /><br /><br />morgen
+昨天	zuótiān<br /><br /><br />gestern
+热	rè<br /><br /><br />heiss
+冷	lěng<br /><br /><br />kalt
+水	shuǐ<br /><br /><br />Wasser
+冰	bīng<br /><br /><br />Eis
+再	zài<br /><br /><br />wieder
+见	jiàn<br /><br /><br />sehen
+再见。	<br /><br /><br />Auf Wiedersehen.
+明天见。	<br /><br /><br />Bis morgen.
+冬天	dōngtiān<br /><br /><br />Winter
+夏天	xiàtiān<br /><br /><br />Sommer
+春天	chūntiān<br /><br /><br />Frühling
+秋天	qiūtiān<br /><br /><br />Herbst
+春天不热也不冷。	<br /><br /><br />Der Frühling ist weder heiss noch kalt.
+禾	hé<br /><br /><br />Sprossen / junge Pflanze
+火	huǒ<br /><br /><br />Feuer
+米	mǐ<br /><br /><br />ungekochter Reis / Meter (Maß)
+土	tǔ<br /><br /><br />Boden / Erde
+大	dà<br /><br /><br />gross
+刀	dāo<br /><br /><br />Messer
+刂	<br /><br /><br />Radikal für Messer
+忄	<br /><br /><br />Radikal für Herz
+都	dōu<br /><br /><br />allen / beiden
+晚	wǎn<br /><br /><br />spät
+上	shàng<br /><br /><br />oben / über
+晚上	<br /><br /><br />Abend
+晚上好。	<br /><br /><br />Guten Abend.
+我晚上很忙。	<br /><br /><br />Ich bin am Abend beschäftigt.
+啤酒	píjiǔ<br /><br /><br />Bier
+酒	jiǔ<br /><br /><br />Alkohol
+白酒	<br /><br /><br />Schnaps
+喝	hē<br /><br /><br />trinken
+是	shì<br /><br /><br />sein / to be
+是的。	<br /><br /><br />Ja.
+现	xiàn<br /><br /><br />jetzt
+在	zài<br /><br /><br />sich befinden / existieren
+现在	xiànzài<br /><br /><br />jetzt / in letzter Zeit
+王	wáng<br /><br /><br />König / Familienname
+最	zuì<br /><br /><br />Superlativ-Präfix
+近	jìn<br /><br /><br />nahe
+最近	zuìjìn<br /><br /><br />am Nähesten<br /><br />in letzter Zeit
+茶	chá<br /><br /><br />Tee
+绿	lǜ<br /><br /><br />grün
+绿茶	lǜchá<br /><br /><br />Grüntee
+红茶	hóngchá<br /><br /><br />Schwarztee
+您	nín<br /><br /><br />Sie (höfliche Anrede)
+贵	guì<br /><br /><br />teuer
+姓	xìng<br /><br /><br />mit Familienname heissen
+您贵姓？	<br /><br /><br />Wie ist ihr werter Name?
+太贵了。	<br /><br /><br />Viel zu teuer.
+我姓	<br /><br /><br />Ich heisse (mit Nachnamen) ...
+叫	jiào<br /><br /><br />rufen / schreien / heissen
+什么	shén me<br /><br /><br />was (Fragewort)
+名字	míng zi<br /><br /><br />Name
+你叫什么名字？	<br /><br /><br />Wie heisst du?
+我叫	<br /><br /><br />Ich heisse ...
+她喝什么？	<br /><br /><br />Was trinkt sie?
+和	hé<br /><br /><br />und (verbindet Wortgruppen)
+小	xiǎo<br /><br /><br />klein
+大	dà<br /><br /><br />gross
+老	lǎo<br /><br /><br />alt
+懂	dǒng<br /><br /><br />verstehen
+我不懂。	<br /><br /><br />Ich verstehe nicht.
+明白	míng bái<br /><br /><br />klar
+我不明白。	<br /><br /><br />Es ist mir nicht klar.
+知	zhī<br /><br /><br />wissen
+道	dào<br /><br /><br />der Weg
+我不知道。	<br /><br /><br />Ich weiss nicht.
+认识	rèn shi<br /><br /><br />jmd. kennen / jmd. kennenlernen
+高兴	gāo xìng<br /><br /><br />fröhlich / sich freuen
+高	gāo<br /><br /><br />gross / hoch
+认识你，我很高兴。	<br /><br /><br />Es freut mich, dich kennenzulernen.
+是	shì<br /><br /><br />sein
+哪	nǎ<br /><br /><br />welcher / welches (Fragewort)
+国	guó<br /><br /><br />Land / Staat
+你是哪国人？	<br /><br /><br />Aus welchem Land bist du?
+玉	yù<br /><br /><br />Jade
+中国	zhōng guó<br /><br /><br />China (Reich der Mitte)
+日本	rì běn<br /><br /><br />Japan
+韩国	hán guó<br /><br /><br />Südkorea
+德国	dé guó<br /><br /><br />Deutschland
+德	dé<br /><br /><br />Tugend / Moral
+法国	fǎ guó<br /><br /><br />Frankreich
+法	fǎ<br /><br /><br />Gesetz / Justiz
+英国	yīng guó<br /><br /><br />England
+英	yīng<br /><br /><br />Held
+美国	měi guó<br /><br /><br />USA
+美	měi<br /><br /><br />schön
+奥地利	ào dì lì<br /><br /><br />Österreich
+人	rén<br /><br /><br />Mensch
+奥地利人	ào dì lì rén<br /><br /><br />Österreicher
+意大利	yì dà lì<br /><br /><br />Italien
+瑞士	ruì shì<br /><br /><br />Schweiz
+学	xué<br /><br /><br />lernen / Schüler / Student
+习	xí<br /><br /><br />wiederholen
+学习	xué xí<br /><br /><br />lernen / studieren
+文	wén<br /><br /><br />Sprache
+语	yǔ<br /><br /><br />Sprache
+中文	zhōng wén<br /><br /><br />Chinesisch
+汉语	hàn yǔ<br /><br /><br />Chinesisch
+我学习中文。	<br /><br /><br />Ich lerne Chinesisch.
+英文	<br /><br /><br />Englisch.
+英语	<br /><br /><br />Englisch
+说	shuō<br /><br /><br />sprechen / sagen
+一点儿	yī diǎn er<br />yīdiǎr<br /><br /><br />ein bisschen
+我说一点儿中文。	<br /><br /><br />Ich spreche ein bisschen Chinesisch.
+咖啡	kā fēi<br /><br /><br />Kaffee
+烧酒	shāo jiǔ<br /><br /><br />Glühwein / Branntwein
+喜	xǐ<br /><br /><br />Glück
+欢	huān<br /><br /><br />fröhlich / froh
+喜欢	xǐ huān<br /><br /><br />mögen
+英国人喜欢喝红茶。	<br /><br /><br />Engländer trinken gerne Schwarztee.
+爱	ài<br /><br /><br />lieben
+最爱	<br /><br /><br />am Liebsten
+朋友	péng you<br /><br /><br />Freund / Freundin / Bekannte
+男	nán<br /><br /><br />Mann
+女朋友	<br /><br /><br />girl friend
+男朋友	<br /><br /><br />boy friend
+田	tián<br /><br /><br />Feld / Ackerland
+力	lì<br /><br /><br />Kraft / kräftig
+去	qù<br /><br /><br />hingehen / hinfahren
+我去中国	<br /><br /><br />Ich fahre nach China.
+年	nián<br /><br /><br />Jahr
+轻	qīng<br /><br /><br />leicht
+年轻	nián qīng<br /><br /><br />jung
+矮	ǎi<br /><br /><br />klein (nur bei Menschen)
+中国的年轻人现在也喜欢喝啤酒。	<br /><br /><br />Die jungen Chinesen trinken in letzter Zeit gerne auch Bier.
+黄	huáng<br /><br /><br />gelb (&quot;schmutzige&quot; Farbe)
+黑	hēi<br /><br /><br />schwarz
+蓝	lán<br /><br /><br />blau
+颜色	yán sè<br /><br /><br />Farbe
+你喜欢什么颜色？	<br /><br /><br />Welche Farbe(n) magst du?
+我喜欢黑（颜）色	<br /><br /><br />Ich mag die Farbe schwarz.
+白白	bái bái<br /><br /><br />nutzlos / umsonst / vergeblich
+明明白白	míng míng bái bái<br /><br /><br />sonnenklar / völlig klar
+拜拜	bài bài<br /><br /><br />Bye bye.
+谁	shéi<br /><br /><br />wer / wem / wen (Fragewort)
+他是谁？	<br /><br /><br />Wer ist er?
+谁爱她？	<br /><br /><br />Wer liebt sie?
+怎么	zěn me<br /><br /><br />wie (Fragewort)
+怎么样	zěn me yàng<br /><br /><br />wie (Beschaffenheit / subjektives Empfinden)
+样	yàng<br /><br /><br />Art / Weise
+你的汉语怎么样？	<br /><br /><br />Wie ist dein Chinesisch?
+有	yǒu<br /><br /><br />haben / es gibt
+没有	méi yǒu<br /><br /><br />nicht haben / es gibt nicht
+累	lèi<br /><br /><br />müde
+饿	è<br /><br /><br />hungrig
+渴	kě<br /><br /><br />durstig
+对	duì<br /><br /><br />richtig / korrekt / stimmt
+错	cuò<br /><br /><br />falsch / schlecht
+对对对。	<br /><br /><br />Stimmt.
+不错	<br /><br /><br />nicht schlecht
+思	si<br /><br /><br />denken
+意思	yì si<br /><br /><br />Bedeutung / Sinn
+什么意思？	<br /><br /><br />Was heisst das?
+同	tóng<br /><br /><br />gemeinsam / zusammen
+同学	<br /><br /><br />Mitschüler / Studienkollege
+可	kě<br /><br /><br />Verstärkungs-Partikel
+有意思	yǒu yì si<br /><br /><br />interessant
+为	wèi<br /><br /><br />für
+为什么	<br /><br /><br />warum (Fragewort)
+因为	yīn wèi<br /><br /><br />weil
+要	yào<br /><br /><br />wollen
+我要去中国。	<br /><br /><br />Ich will nach China fahren.
+下	xià<br /><br /><br />unten / darunter
+咖啡色	<br /><br /><br />braun
+懂了吗？	<br /><br /><br />Verstanden?
+我懂了。	<br /><br /><br />Ich habe verstanden.
+问	wèn<br /><br /><br />fragen
+题	tí<br /><br /><br />Thema / Titel
+问题	wèn tí<br /><br /><br />die Frage
+页	yè<br /><br /><br />die Seite
+难	nán<br /><br /><br />schwer / schwierig
+久	jiǔ<br /><br /><br />lange / ewig
+好久不见（了）。	<br /><br /><br />Schon lange nicht mehr gesehen.
+还	hái<br /><br /><br />noch / darüber hinaus
+行	xíng<br /><br /><br />gehen
+还行。	hái xíng<br /><br /><br />Es geht.
+个	ge<br /><br /><br />Zähleinheitswort
+一个人	<br /><br /><br />1 Mensch
+什么？	<br /><br /><br />Was? (Gegenfrage)
+介绍	jiè shào<br /><br /><br />jemanden vorstellen
+请	qǐng<br /><br /><br />bitte
+请喝茶。	<br /><br /><br />Bitte trink etwas Tee (zum Gast z.B.)
+妈妈	mā ma<br /><br /><br />Mama
+爸爸	bà ba<br /><br /><br />Papa
+请问？	<br /><br /><br />Darf ich fragen?
+我和你	<br /><br /><br />Ich und Du
