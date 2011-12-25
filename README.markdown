@@ -16,6 +16,9 @@ The example font used by default in this sheet is STKaiti which could be
 acquired using a web search engine if you have not installed it in your system.
 
 Font [installation][3] can be done by using the command line interface.
+Remember that you have to set the environment variable OSFONTDIR according to
+the paths where your fonts can be found. This can be done on Windows somewhere
+on the 'My Computer' settings, if I remember correctly.
 
 
 Usage
@@ -29,6 +32,6 @@ An export example is included in this repository in the file *zhongwen.txt*.
 
    [1]: http://wiki.contextgarden.net/ConTeXt_Standalone "ConTeXt"
    [2]: http://wiki.contextgarden.net/Running_Mark_IV    "Running Mark IV"
-   [3]: http://wiki.contextgarden.net/Installing_a_TrueType_font,_step_by_step  "Installing a TrueType font"
+   [3]: http://wiki.contextgarden.net/Fonts_in_LuaTeX    "Fonts in LuaTeX"
    [4]: http://ankisrs.net/  "Anki"
 
