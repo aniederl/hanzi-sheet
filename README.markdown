@@ -29,8 +29,9 @@ Usage
 To use this practice sheet you can provide your own [Anki][4]
 export file and point to it by exchanging the file name used in the bottom of
 the TeX document.
+The file has to contain only one character per line.
 
-An export example is included in this repository in the file *zhongwen.txt*.
+An export example is included in this repository in the file *hanzi.txt*.
 
 Compile the document using this commandline:
 ```
