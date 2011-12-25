@@ -6,7 +6,7 @@
 
 \startenvironment env_sheet
 
-\setuplayout[top=1cm,header=0pt,bottom=1cm,footer=0pt]
+\setuplayout[top=1cm,header=0pt,bottom=1cm,footer=20pt]
 
 \usemodule[simplefonts]
 
@@ -14,8 +14,9 @@
 \setmainfont[stkaiti]
 
 \setupbodyfont[base, 12pt]
-\setuppagenumber[state=stop]
-\setupindenting[none]
+\setuppagenumber[state=start]
+%\setupindenting[none]
+\setuppagenumbering[location=footer]
 
 
 %% Change for different size:
@@ -82,12 +83,11 @@
 	--reads a file with a custom anki text export file
 	--
 	--anki style sheet has to begin with the chinese hanzi in order for this
-	--function to work, e.g.: 她	tā<br /><br /><br />Sie
 	--
 	--generates TeX code for including each hanzi
 	function userdata.readanki(file)
 		for l in io.lines(file) do
-			local s = l:match("^([[:alpha:]])\s+")
+			local s = l:match("^(%w)%s+")
 			if s ~= nil then
 				tex.sprint("\\line{" .. s .. "}\n")
 			end
