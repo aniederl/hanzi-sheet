@@ -61,57 +61,31 @@
   endfor;
 \stopuseMPgraphic
 
-\startuseMPgraphic{line2}
-  pickup pencircle scaled .7pt;
-  picture box;
-  color grey;
-  grey=0.8*white;
-  draw unitsquare shifted (0,240) scaled \kanjisize\space withcolor 0.25white;
-  pickup pencircle scaled 0.5pt;
-  draw .5[llcorner currentpicture,lrcorner currentpicture] --
-    .5[ulcorner currentpicture,urcorner currentpicture]
-    withcolor grey;
-  draw .5[llcorner currentpicture,ulcorner currentpicture] --
-    .5[lrcorner currentpicture,urcorner currentpicture]
-    withcolor grey;
-  draw llcorner currentpicture --
-    urcorner currentpicture
-    withcolor grey;
-  draw ulcorner currentpicture --
-    lrcorner currentpicture
-    withcolor grey;
-  box := currentpicture;
-  setbounds box to boundingbox box enlarged -1pt;
-
-  numeric imax;
-  imax = 180mm/bbwidth(box);
-  for i = 2 step 1 until imax-1:
-    draw box shifted (i*bbwidth(box), 0pt);
-  endfor;
-\stopuseMPgraphic
-
-
-
 \def\line#1{{%
   \par
   \leavevmode
-  %\hskip-1.75cm
   \bigfont
   \useMPgraphic{line}{c=#1}%
-  %\crlf
-  %\useMPgraphic{line2}%
-  %\crlf
   \par
 }}
 
 \startluacode
 	userdata = userdata or {}
 
+	--reads a file with one hanzi per line
+	--generates TeX code for including each hanzi
 	function userdata.readhanzi(file)
 		for l in io.lines(file) do
 			tex.sprint("\\line{" .. l .. "}\n")
 		end
 	end
+
+	--reads a file with a custom anki text export file
+	--
+	--anki style sheet has to begin with the chinese hanzi in order for this
+	--function to work, e.g.: 她	tā<br /><br /><br />Sie
+	--
+	--generates TeX code for including each hanzi
 	function userdata.readanki(file)
 		for l in io.lines(file) do
 			local s = l:match("^([[:alpha:]])\s+")
