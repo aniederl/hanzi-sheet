@@ -1,32 +1,23 @@
 %&context
-%% Kanji writing practice sheets
+%%
+%% Kanji and Hanzi writing practice sheets
 
-%% Note: This is a ConTeXt file, to be compiled using
-%% texexec --xtx sheet.tex
-
-%\usemodule[simplefonts]
-%\setmainfont[hiraginokakugothicpro]
-%\mainlanguage[ja]
-%\language[ja]
+%% Note: This is a ConTeXt Mark IV file, to be compiled using
+%% context hanzi-sheet.tex
 
 
 \setuplayout[top=1cm,header=0pt,bottom=1cm,footer=0pt]
 
-%\setupunicodefont[japanese][scale=1.0]
-%\definefontsynonym [JapaneseMinchoRegular][cyberp]
-%\defineunicodefont [Mincho][JapaneseMincho][japanese]
-
-%\enableregime[utf]
-
 \usemodule[simplefonts]
+
+%% enter font to be used here
 \setmainfont[stkaiti]
 
-%% Select the font to use here (end of line):
-%\definetypeface[base][rm][Xserif][STKaiti]
-%\definetypeface[base][rm][Xserif][stkaiti]
+
 \setupbodyfont[base, 12pt]
 \setuppagenumber[state=stop]
 \setupindenting[none]
+
 
 %% Change for different size:
 \def\kanjisize{15mm}
