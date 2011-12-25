@@ -20,6 +20,9 @@ Remember that you have to set the environment variable OSFONTDIR according to
 the paths where your fonts can be found. This can be done on Windows somewhere
 on the 'My Computer' settings, if I remember correctly.
 
+For the ConTeXt Standalone version (on Windows) the package *simplefonts* needs
+to be [installed][5].
+
 
 Usage
 -----
@@ -39,4 +42,5 @@ context hanzi-sheet.tex
    [2]: http://wiki.contextgarden.net/Running_Mark_IV    "Running Mark IV"
    [3]: http://wiki.contextgarden.net/Fonts_in_LuaTeX    "Fonts in LuaTeX"
    [4]: http://ankisrs.net/  "Anki"
+   [5]: http://wiki.contextgarden.net/Fonts_in_LuaTeX#Installing_simplefonts "Installing simplefonts"
 
