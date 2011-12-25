@@ -29,6 +29,11 @@ the TeX document.
 
 An export example is included in this repository in the file *zhongwen.txt*.
 
+Compile the document using this commandline:
+```
+context hanzi-sheet.tex
+```
+
 
    [1]: http://wiki.contextgarden.net/ConTeXt_Standalone "ConTeXt"
    [2]: http://wiki.contextgarden.net/Running_Mark_IV    "Running Mark IV"
