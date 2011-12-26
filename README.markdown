@@ -16,11 +16,11 @@ The example font used by default in this sheet is STKaiti which could be
 acquired using a web search engine if you have not installed it in your system.
 
 Font [installation][3] can be done by using the command line interface.
-Remember that you have to set the environment variable OSFONTDIR according to
+Remember that you have to set the environment variable **OSFONTDIR** according to
 the paths where your fonts can be found. This can be done on Windows somewhere
 on the 'My Computer' settings, if I remember correctly.
 
-For the ConTeXt Standalone version (on Windows) the package *simplefonts* needs
+For the ConTeXt Standalone version (on Windows) the package **simplefonts** needs
 to be [installed][5].
 
 
@@ -31,12 +31,16 @@ export file and point to it by exchanging the file name used in the bottom of
 the TeX document.
 The file has to contain only one character per line.
 
-An export example is included in this repository in the file *hanzi.txt*.
+An export example is included in this repository in the file **hanzi.txt**.
+
+The python script **filter.py** can be used to generate such a newline-separated
+symbol file from an Anki export:
+
+    python filter.py zhongwen.txt hanzi.txt
 
 Compile the document using this commandline:
-```
-context hanzi-sheet.tex
-```
+
+    context hanzi-sheet.tex
 
 
    [1]: http://wiki.contextgarden.net/ConTeXt_Standalone "ConTeXt"
