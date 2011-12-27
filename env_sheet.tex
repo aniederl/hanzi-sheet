@@ -21,7 +21,10 @@
 
 %% Change for different size:
 \def\kanjisize{15mm}
+\def\pinyinsize{4mm}
 \definefont[bigfont][Regular at \kanjisize]
+\definefont[smallfont][Regular at \pinyinsize]
+\definefont[smallfontbold][RegularBold at \pinyinsize]
 
 \startuseMPgraphic{line}
   pickup pencircle scaled .7pt;
@@ -68,6 +71,19 @@
   \useMPgraphic{line}{c=#1}%
   \par
 }}
+
+\def\linedesc#1#2#3{{%
+  \par
+  \leavevmode
+  \bigfont
+  \useMPgraphic{line}{c=#1}%
+  \par
+  \smallfont
+  #1 -- {\smallfontbold #2} -- #3
+  \crlf
+  \par
+}}
+
 
 \startluacode
 	userdata = userdata or {}
