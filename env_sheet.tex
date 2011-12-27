@@ -73,16 +73,21 @@
   \par
 }}
 
+\setuplines
+  [before={\startframedtext[frame=off]},
+   after=\stopframedtext]
+
 \def\linedesc#1#2#3{{%
   \par
+  \startlines
   \leavevmode
   \bigfont
   \useMPgraphic{line}{c=#1}%
   \par
   \smallfont
   #1 -- {\smallfontbold #2} -- #3
-  \crlf
-  \par
+  \stoplines
+  \vskip -15mm
 }}
 
 
