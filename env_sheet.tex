@@ -69,6 +69,7 @@
   \leavevmode
   \bigfont
   \useMPgraphic{line}{c=#1}%
+  \vskip 5mm
   \par
 }}
 
@@ -96,6 +97,14 @@
 		end
 	end
 \stopluacode
+
+
+\usemodule[filter]
+
+\defineexternalfilter
+  [anki]
+  [filtercommand={./filter.py --tex --pinyin \externalfilterinputfile \space
+                                             \externalfilteroutputfile}]
 
 
 \stopenvironment
