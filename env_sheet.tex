@@ -78,14 +78,14 @@
    after=\stopframedtext]
 
 \def\linedesc#1#2#3{{%
-  \par
   \startlines
-  \leavevmode
-  \bigfont
-  \useMPgraphic{line}{c=#1}%
   \par
   \smallfont
   #1 -- {\smallfontbold #2} -- #3
+  \par
+  \leavevmode
+  \bigfont
+  \useMPgraphic{line}{c=#1}%
   \stoplines
   \vskip -15mm
 }}
