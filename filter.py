@@ -36,12 +36,12 @@ symbol_re = re.compile(r'^(\w)' + delim + text + delim + text + delim, re.UNICOD
 
 
 try:
-  in_f  = open(in_file, 'r')
+  in_f  = open(in_file, 'r', encoding='utf-8')
 except IOError as err:
   print(err)
   sys.exit(err.errno)
 
-out_f = open(out_file, 'w')
+out_f = open(out_file, 'w', encoding='utf-8')
 for line in in_f:
   line = re.sub('&quot;', '\'', line)
   match = symbol_re.match(line)
