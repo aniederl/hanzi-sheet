@@ -250,3 +250,37 @@
 爸爸	bà ba<br /><br /><br />Papa
 请问？	<br /><br /><br />Darf ich fragen?
 我和你	<br /><br /><br />Ich und Du
+你怎么样？	nǐ zěnme yàng<br /><br /><br />Wie geht es dir?
+太太	tàitài<br /><br /><br />Ehefrau - Anrede für Hausfrauen
+女士	nǚ shì<br /><br /><br />Frau - Anrede für berufstätige Frauen
+可口可乐	kě kǒu kě lè<br /><br /><br />Coca Cola
+可口	kě kǒu<br /><br /><br />wohlschmeckend
+可乐	kě lè<br /><br /><br />glücklich / Cola
+俄国	é guó<br /><br /><br />Russland
+好喝。	<br /><br /><br />Schmeckt gut. (Bei Getränken)
+一下儿	yī xià er / yīxièr<br /><br /><br />kurz
+爱好	ài hào<br /><br /><br />Hobby
+你的爱好是什么？	<br /><br /><br />Was sind deine Hobbies?
+踢	tī<br /><br /><br />treten / kicken
+足	zú<br /><br /><br />Fuss
+球	qiú<br /><br /><br />Ball
+足球	zú qiú<br /><br /><br />Fussball
+踢足球	tī zú qiú<br /><br /><br />Fussball spielen
+打	dǎ<br /><br /><br />schlagen (mit der Hand)
+打球	dǎ qiú<br /><br /><br />Ball spielen
+网	wǎng<br /><br /><br />Netz / Netzwerk
+网球	wǎng qiú<br /><br /><br />Tennis
+网上	wǎng shàng<br /><br /><br />online
+上网	shàng wǎng<br /><br /><br />online gehen
+骑	qí<br /><br /><br />reiten
+车	chē<br /><br /><br />Fahrzeug
+骑车	qí chē<br /><br /><br />Fahrrad fahren
+买	mǎi<br /><br /><br />kaufen
+东	dōng<br /><br /><br />Osten
+西	xi<br /><br /><br />Westen
+东西	dōng xi<br /><br /><br />Gegenstand / Sache
+买东西	mǎi dōng xi<br /><br /><br />einkaufen / shoppen
+做	zuò<br /><br /><br />machen / tun
+饭	fàn<br /><br /><br />Essen
+做饭	zuò fàn<br /><br /><br />kochen
+你做什么？	nǐ zuò shén me<br /><br /><br />Was machst du?
