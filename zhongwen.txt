@@ -284,3 +284,68 @@
 饭	fàn<br /><br /><br />Essen
 做饭	zuò fàn<br /><br /><br />kochen
 你做什么？	nǐ zuò shén me<br /><br /><br />Was machst du?
+我有点儿累	wǒ yǒudiǎnr lěi<br /><br /><br />Ich bin ein bisschen müde.
+我说一点儿中文	wǒ shuō yīdiǎnr zhōngwén<br /><br /><br />Ich spreche ein bisschen chinesisch
+请你介绍你自己	qǐng nǐ jièshào nǐ zijǐ<br /><br /><br />Bitte stell dich selbst vor.
+自己	zijǐ<br /><br /><br />sich selbst
+你从哪儿来？	nǐ cóng nǎr lái<br /><br /><br />Woher kommst du?
+从	cóng<br /><br /><br />von / aus
+哪儿	nǎr<br /><br /><br />Wo
+来	lái<br /><br /><br />kommen
+在	zài<br /><br /><br />sein / sich befinden / existieren (an einem Ort)
+你在哪儿？	nǐ zài nǎr<br /><br /><br />Wo bist du?
+我在大学。	wǒ zài dàxué<br /><br /><br />Ich bin an der Universität.
+大学	dàxué<br /><br /><br />Universität
+技术	jìshù<br /><br /><br />Technik
+技术大学	jìshù dàxué<br /><br /><br />Technische Universität
+我在技术大学学习	wǒ zài jìshù dàxué xuéxí<br /><br /><br />Ich studiere an der Technischen Universität.
+买	mǎi<br /><br /><br />kaufen
+卖	mài<br /><br /><br />verkaufen
+头	tóu<br /><br /><br />Kopf
+天天	tiāntiān<br /><br /><br />jeden Tag / täglich
+人人	rénrén<br /><br /><br />jeder Mensch
+手机	shǒu jī<br /><br /><br />Handy / Mobiltelefon
+手	shǒu<br /><br /><br />die Hand
+机	jī<br /><br /><br />Maschine / Gerät
+我的手机是日本的。	wǒ de shǒujī shì rìběnde<br /><br /><br />Mein Handy ist aus Japan.
+多	duō<br /><br /><br />viel / mehr
+少	shǎo<br /><br /><br />wenig
+多少	duōshǎo<br /><br /><br />wieviel
+钱	qián<br /><br /><br />Geld
+多少钱？	duōshǎoqián<br /><br /><br />Wieviel kostet das?
+手机多少钱？	shǒujī duōshǎoqián<br /><br /><br />Wieviel kostet das Handy?
+三百八十欧元	sānbǎibāshí ōuyuán<br /><br /><br />380 Euro
+欧洲	ōu zhōu<br /><br /><br />Europa
+欧元	ōuyuán<br /><br /><br />Euro
+洲	zhōu<br /><br /><br />Erdteil / Kontinent
+便宜	pián yì<br /><br /><br />billig
+便	pián<br /><br /><br />günstig / bequem
+宜	yì<br /><br /><br />passend
+人口	rénkǒu<br /><br /><br />Einwohner
+百万	bǎiwàn<br /><br /><br />Million
+从来	cóng lái<br /><br /><br />immer / seit jeher / stets
+从来不	cóngláibù<br /><br /><br />nie
+从来没有	cónglái méiyǒu<br /><br /><br />nie / nie vorher
+我从来不买	wǒ cónglái bù měi<br /><br /><br />Ich kaufe nie ...
+包	bāo<br /><br /><br />Tasche
+钱包	qián bāo<br /><br /><br />Geldtasche
+你在中国买什么？	nǐ zài zhōngguó mǎi shénme<br /><br /><br />Was kaufst du in China?
+特	tè<br /><br /><br />besonders
+产	chǎn<br /><br /><br />Produkt
+特产	tèchǎn<br /><br /><br />Spezialität
+水晶	shuǐ jīng<br /><br /><br />Kristall
+香	xiāng<br /><br /><br />duftend
+香水	xiāng shuǐ<br /><br /><br />Parfüm
+口红	kǒu hóng<br /><br /><br />Lippenstift
+美女	měinǚ<br /><br /><br />schöne Frau / Anrede für Mädchen
+不好意思	bùhǎo yìsi<br /><br /><br />Tut mir leid. / Bedauerlicherweise (Höflichkeitsfloskel)
+电	diàn<br /><br /><br />Strom / Elektrizität
+话	huà<br /><br /><br />Sprache
+电话	diàn huà<br /><br /><br />Telefon
+号	hào<br /><br /><br />Nummer
+码	mǎ<br /><br /><br />Grösse / Nummer
+号码	hào mǎ<br /><br /><br />die Nummer / die Ziffer
+电话号码	diànhuà hàomǎ<br /><br /><br />Telefonnummer
+吃	chī<br /><br /><br />essen / speisen
+饭	fàn<br /><br /><br />das Essen / die Mahlzeit
+吃饭	chīfàn<br /><br /><br />Essen (allgemein) / die Nahrungszufuhr / speisen (formell)
