@@ -77,18 +77,33 @@
   [before={\startframedtext[frame=off]},
    after=\stopframedtext]
 
-\def\linedesc#1#2#3{{%
+\def\dolinedesc[#1][#2][#3][#4]{{%
+  \iffourthargument
+    \setvariables[line][description=#1]
+    \setvariables[line][symbol=#2]
+    \setvariables[line][reading=#3]
+    \setvariables[line][translation=#4]
+  \else
+    \setvariables[line][description=#1]
+    \setvariables[line][symbol=#1]
+    \setvariables[line][reading=#2]
+    \setvariables[line][translation=#3]
+  \fi
   \startlines
   \par
   \smallfont
-  #1 -- {\smallfontbold #2} -- #3
+  \getvariable{line}{description} --
+  {\smallfontbold \getvariable{line}{reading}} --
+  \getvariable{line}{translation}
   \par
   \leavevmode
   \bigfont
-  \useMPgraphic{line}{c=#1}%
+  \useMPgraphic{line}{c=\getvariable{line}{symbol}}%
   \stoplines
   \vskip -15mm
 }}
+
+\def\linedesc{\doquadrupleargument\dolinedesc}
 
 
 \startluacode

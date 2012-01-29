@@ -32,7 +32,8 @@ import re
 delim1 = '\t+|<br\s*/>'
 delim  = '(?:\t+|<br\s*/>|$)+'
 text   = '([\S ]+?)'
-symbol_re = re.compile(r'^(\w)' + delim + text + delim + text + delim, re.UNICODE)
+symbol_re = re.compile(r'^(\w)'    + delim + text + delim + text + delim, re.UNICODE)
+word_re   = re.compile(r'^(\w\w+)' + delim + text + delim + text + delim, re.UNICODE)
 
 hanzi = set()
 
@@ -43,30 +44,42 @@ except IOError as err:
   print(err)
   sys.exit(err.errno)
 
+
+def printline(line, regex, out):
+  match  = regex.match(line)
+  output = ''
+
+  if match:
+    word = match.group(1)
+
+    for symbol in word:
+      if symbol in hanzi:
+        continue
+
+      hanzi.add(symbol)
+
+      if options.output_tex:
+        if options.add_pinyin:
+          pinyin = match.group(2)
+          pinyin = re.sub('<br\s*/>', '', pinyin)
+          desc   = match.group(3)
+          output = '\\linedesc[' + word + '][' + symbol + '][' + pinyin + '][' + desc + ']'
+        else:
+          output = '\\line{' + symbol + '}'
+      else:
+        output = symbol
+
+      output += '\n'
+      out.write(output)
+
+
 out_f = open(out_file, 'w', encoding='utf-8')
 for line in in_f:
   line = re.sub('&quot;', '\'', line)
-  match = symbol_re.match(line)
-  if match:
-    symbol = match.group(1)
+  printline(line, symbol_re, out_f)
 
-    if symbol in hanzi:
-      continue
+in_f.seek(0)
+for line in in_f:
+  line = re.sub('&quot;', '\'', line)
+  printline(line, word_re, out_f)
 
-    hanzi.add(symbol)
-    output = ''
-
-    if options.output_tex:
-      if options.add_pinyin:
-        pinyin = match.group(2)
-        pinyin = re.sub('<br\s*/>', '', pinyin)
-        desc   = match.group(3)
-        output = '\\linedesc{' + symbol + '}{' + pinyin + '}{' + desc + '}'
-      else:
-        output = '\\line{' + symbol + '}'
-    else:
-      output = symbol
-
-    output += '\n'
-    #print(output)
-    out_f.write(output)
