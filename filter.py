@@ -16,7 +16,7 @@ parser = OptionParser(usage)
 
 parser.add_option("-t", "--tex", action="store_true", dest="output_tex",
     default=False)
-parser.add_option("-p", "--pinyin", action="store_true", dest="add_pinyin",
+parser.add_option("-p", "--reading", action="store_true", dest="add_reading",
     default=False)
 
 (options, args) = parser.parse_args()
@@ -46,6 +46,7 @@ except IOError as err:
 
 
 def printline(line, regex, out):
+  line   = re.sub('&quot;', '\'', line)
   match  = regex.match(line)
   output = ''
 
@@ -59,11 +60,12 @@ def printline(line, regex, out):
       hanzi.add(symbol)
 
       if options.output_tex:
-        if options.add_pinyin:
-          pinyin = match.group(2)
-          pinyin = re.sub('<br\s*/>', '', pinyin)
-          desc   = match.group(3)
-          output = '\\linedesc[' + word + '][' + symbol + '][' + pinyin + '][' + desc + ']'
+        if options.add_reading:
+          reading = match.group(2)
+          reading = re.sub('<br\s*/>', '', reading)
+          trans   = match.group(3)
+          output = '\\linedesc[' + word + '][' + symbol + \
+              '][' + reading + '][' + trans + ']'
         else:
           output = '\\line{' + symbol + '}'
       else:
@@ -75,11 +77,9 @@ def printline(line, regex, out):
 
 out_f = open(out_file, 'w', encoding='utf-8')
 for line in in_f:
-  line = re.sub('&quot;', '\'', line)
   printline(line, symbol_re, out_f)
 
 in_f.seek(0)
 for line in in_f:
-  line = re.sub('&quot;', '\'', line)
-  printline(line, word_re, out_f)
+  printline(line, word_re,   out_f)
 

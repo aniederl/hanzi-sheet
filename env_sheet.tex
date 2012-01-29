@@ -21,10 +21,10 @@
 
 %% Change for different size:
 \def\kanjisize{15mm}
-\def\pinyinsize{4mm}
+\def\readingsize{4mm}
 \definefont[bigfont][Regular at \kanjisize]
-\definefont[smallfont][Regular at \pinyinsize]
-\definefont[smallfontbold][RegularBold at \pinyinsize]
+\definefont[smallfont][Regular at \readingsize]
+\definefont[smallfontbold][RegularBold at \readingsize]
 
 \startuseMPgraphic{line}
   pickup pencircle scaled .7pt;
@@ -123,8 +123,8 @@
 
 \defineexternalfilter
   [anki]
-  [filtercommand={python filter.py --tex --pinyin \externalfilterinputfile \space
-                                                  \externalfilteroutputfile}]
+  [filtercommand={python filter.py --tex --reading \externalfilterinputfile \space
+                                                   \externalfilteroutputfile}]
 
 
 \stopenvironment
