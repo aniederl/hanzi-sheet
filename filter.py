@@ -34,6 +34,8 @@ delim  = '(?:\t+|<br\s*/>|$)+'
 text   = '([\S ]+?)'
 symbol_re = re.compile(r'^(\w)' + delim + text + delim + text + delim, re.UNICODE)
 
+hanzi = set()
+
 
 try:
   in_f  = open(in_file, 'r', encoding='utf-8')
@@ -47,7 +49,13 @@ for line in in_f:
   match = symbol_re.match(line)
   if match:
     symbol = match.group(1)
+
+    if symbol in hanzi:
+      continue
+
+    hanzi.add(symbol)
     output = ''
+
     if options.output_tex:
       if options.add_pinyin:
         pinyin = match.group(2)
@@ -62,5 +70,3 @@ for line in in_f:
     output += '\n'
     #print(output)
     out_f.write(output)
-
-
