@@ -3,7 +3,7 @@
 你好	níhǎo<br /><br /><br />Hallo
 吗	ma<br /><br /><br />Frage-Partikel
 你好吗。	níhǎoma.<br /><br /><br />Wie geht es dir?
-口	kǒu<br /><br /><br />Mund
+口	kǒu<br /><br /><br />Mund / ZEW für Familienmitglieder
 马	mǎ<br /><br /><br />Pferd
 我	wǒ<br /><br /><br />Ich
 他	tā<br /><br /><br />Er
@@ -42,7 +42,7 @@
 不	bù<br /><br /><br />Verneinung<br /><br />Aussprache in Ausnahmefällen: bú
 我不很好	<br /><br /><br />Mir geht es nicht gut.
 我的马	<br /><br /><br />Mein Pferd
-太	tài<br /><br /><br />sehr (stärker)
+太	tài<br /><br /><br />sehr (stärker)<br />viel zu / allzu<br />äusserst / extrem
 我不太好。	<br /><br /><br />Mir geht es nicht sehr gut.
 马马虎虎。	mǎmǎhūhū<br /><br /><br />Solala.
 虎	hǔ<br /><br /><br />Tiger
@@ -67,7 +67,7 @@
 冷	lěng<br /><br /><br />kalt
 水	shuǐ<br /><br /><br />Wasser
 冰	bīng<br /><br /><br />Eis
-再	zài<br /><br /><br />wieder
+再	zài<br /><br /><br />wieder / noch einmal / nochmals
 见	jiàn<br /><br /><br />sehen
 再见。	<br /><br /><br />Auf Wiedersehen.
 明天见。	<br /><br /><br />Bis morgen.
@@ -159,7 +159,7 @@
 习	xí<br /><br /><br />wiederholen
 学习	xué xí<br /><br /><br />lernen / studieren
 文	wén<br /><br /><br />Sprache
-语	yǔ<br /><br /><br />Sprache
+语	yǔ<br /><br /><br />die Sprache
 中文	zhōng wén<br /><br /><br />Chinesisch
 汉语	hàn yǔ<br /><br /><br />Chinesisch
 我学习中文。	<br /><br /><br />Ich lerne Chinesisch.
@@ -210,7 +210,7 @@
 累	lèi<br /><br /><br />müde
 饿	è<br /><br /><br />hungrig
 渴	kě<br /><br /><br />durstig
-对	duì<br /><br /><br />richtig / korrekt / stimmt
+对	duì<br /><br /><br />richtig / korrekt / stimmt<br />gegen (Präposition)
 错	cuò<br /><br /><br />falsch / schlecht
 对对对。	<br /><br /><br />Stimmt.
 不错	<br /><br /><br />nicht schlecht
@@ -219,7 +219,7 @@
 什么意思？	<br /><br /><br />Was heisst das?
 同	tóng<br /><br /><br />gemeinsam / zusammen
 同学	<br /><br /><br />Mitschüler / Studienkollege
-可	kě<br /><br /><br />Verstärkungs-Partikel
+可	kě<br /><br /><br />Verstärkungs-Partikel<br />können
 有意思	yǒu yì si<br /><br /><br />interessant
 为	wèi<br /><br /><br />für
 为什么	<br /><br /><br />warum (Fragewort)
@@ -238,13 +238,13 @@
 久	jiǔ<br /><br /><br />lange / ewig
 好久不见（了）。	<br /><br /><br />Schon lange nicht mehr gesehen.
 还	hái<br /><br /><br />noch / darüber hinaus
-行	xíng<br /><br /><br />gehen
+行	xíng<br /><br /><br />gehen<br />kompetent / tüchtig
 还行。	hái xíng<br /><br /><br />Es geht.
 个	ge<br /><br /><br />Zähleinheitswort
 一个人	<br /><br /><br />1 Mensch
 什么？	<br /><br /><br />Was? (Gegenfrage)
 介绍	jiè shào<br /><br /><br />jemanden vorstellen
-请	qǐng<br /><br /><br />bitte
+请	qǐng<br /><br /><br />bitte / einladen
 请喝茶。	<br /><br /><br />Bitte trink etwas Tee (zum Gast z.B.)
 妈妈	mā ma<br /><br /><br />Mama
 爸爸	bà ba<br /><br /><br />Papa
@@ -308,7 +308,7 @@
 手	shǒu<br /><br /><br />die Hand
 机	jī<br /><br /><br />Maschine / Gerät
 我的手机是日本的。	wǒ de shǒujī shì rìběnde<br /><br /><br />Mein Handy ist aus Japan.
-多	duō<br /><br /><br />viel / mehr
+多	duō<br /><br /><br />viel / mehr / über (nach einer Zahl)
 少	shǎo<br /><br /><br />wenig
 多少	duōshǎo<br /><br /><br />wieviel
 钱	qián<br /><br /><br />Geld
@@ -326,7 +326,7 @@
 从来	cóng lái<br /><br /><br />immer / seit jeher / stets
 从来不	cóngláibù<br /><br /><br />nie
 从来没有	cónglái méiyǒu<br /><br /><br />nie / nie vorher
-我从来不买	wǒ cónglái bù měi<br /><br /><br />Ich kaufe nie ...
+我从来不买	wǒ cónglái bù mǎi<br /><br /><br />Ich kaufe nie ...
 包	bāo<br /><br /><br />Tasche
 钱包	qián bāo<br /><br /><br />Geldtasche
 你在中国买什么？	nǐ zài zhōngguó mǎi shénme<br /><br /><br />Was kaufst du in China?
@@ -349,3 +349,511 @@
 吃	chī<br /><br /><br />essen / speisen
 饭	fàn<br /><br /><br />das Essen / die Mahlzeit
 吃饭	chīfàn<br /><br /><br />Essen (allgemein) / die Nahrungszufuhr / speisen (formell)
+米饭	mǐfàn<br /><br /><br />gekochter Reis / Reis
+面	miàn<br /><br /><br />Teig / Mehl / Oberfläche / Gesicht / Fläche
+条	tiáo<br /><br /><br />Streifen
+面条	miàntiáo<br /><br /><br />Nudeln
+包	bāo<br /><br /><br />Tasche
+面包	miànbāo<br /><br /><br />Brot
+意大利面条	yìdàlì miàntiáo<br /><br /><br />Spaghetti
+还是	háishì<br /><br /><br />oder (bei Alternativmöglichkeiten)
+肉	ròu<br /><br /><br />Fleisch
+猪	zhū<br /><br /><br />Schwein
+猪肉	zhūròu<br /><br /><br />Schweinefleisch
+牛	niú<br /><br /><br />Rind
+鸡	jī<br /><br /><br />Huhn
+鸟	niǎo<br /><br /><br />Vogel
+鸭	yā<br /><br /><br />Ente
+鱼	yú<br /><br /><br />Fisch
+虾	xiā<br /><br /><br />Shrimps / Garnelen
+虫	chóng<br /><br /><br />Insekt / Wurm
+菜	cài<br /><br /><br />Gemüse / Speise / Gericht
+白菜	bàicài<br /><br /><br />Chinakohl
+一	yāo<br /><br /><br />1 (alternative Aussprache bei Ziffern)
+两	liǎng<br /><br /><br />2 (alternative Schreib/Sprechweise bei Anzahl)
+两个人	liǎng gè rén<br /><br /><br />2 Menschen
+花	huā<br /><br /><br />Blume
+生	shēng<br /><br /><br />gebären / lebendig
+活	huó<br /><br /><br />leben
+生活	shēnghuó<br /><br /><br />leben / Leben
+运	yùn<br /><br /><br />sich bewegen / das Schicksal
+动	dòng<br /><br /><br />sich bewegen / die Bewegung / die Handlung
+运动	yùndòng<br /><br /><br />die Bewegung / der Sport
+岁	suì<br /><br /><br />das Alter / Zew. für Lebensjahre
+信	xīn<br /><br /><br />die Botschaft / der Brief / glauben
+息	xī<br /><br /><br />der Atem / einstellen
+信息	xīnxī<br /><br /><br />die Botschaft / die Nachricht
+信息学	xīnxīxué<br /><br /><br />die Informatik
+外	wài<br /><br /><br />aussen / fremd
+外语	wàiyǔ<br /><br /><br />Fremdsprache
+外国	wàiguó<br /><br /><br />Ausland
+最近很多外国人学习汉语。	zuìjìn hěnduō wàiguórén xuéxí hànyǔ<br /><br /><br />In letzter Zeit lernen sehr viele Ausländer Chinesisch.
+老外	lǎowài<br /><br /><br />der Ausländer / der Fremde (respektvolle Anrede für Ausländer in China)
+老师	lǎoshī<br /><br /><br />der Lehrer
+师	shī<br /><br /><br />der Experte / der Lehrer
+学生	xuéshēng<br /><br /><br />der Schüler
+中学	zhōngxué<br /><br /><br />Mittelschule
+小学	xiǎoxué<br /><br /><br />Volksschule / Grundschule
+大学生	dàxuéshēng<br /><br /><br />der Student
+你去哪儿？	nǐ qù nǎr<br /><br /><br />Wohin gehst du?
+你去哪里？	nǐ qù nǎlǐ<br /><br /><br />Wohin gehst du?
+哪里	nǎlǐ<br /><br /><br />woher / wie / wo
+哪里，哪里。	nǎlǐ, nǎlǐ<br /><br /><br />Woher, woher. (Zurückweisung auf Kompliment)
+里	lǐ<br /><br /><br />chinesische Meile / drinnen / innen
+笑	xiào<br /><br /><br />lachen / auslachen / das Lachen
+笑话	xiàohuà<br /><br /><br />der Witz
+竹	zhú<br /><br /><br />der Bambus
+孩	hái<br /><br /><br />das Kind
+孩子	háizi<br /><br /><br />das Kind
+女孩子	nǚháizi<br /><br /><br />das Mädchen
+男孩子	nánháizi<br /><br /><br />der Bub
+这	zhè<br /><br /><br />das / dieser / dies
+这个	zhègè<br /><br /><br />das / dies
+那	nà<br /><br /><br />das / jener / jenes
+漂	piào<br /><br /><br />hübsch
+亮	liàng<br /><br /><br />der Glanz / glänzend
+漂亮	piàoliang<br /><br /><br />hübsch / schön
+这儿	zhèr<br /><br /><br />hier / dieser Ort / diese Stelle
+那儿	nàr<br /><br /><br />dort / jener Ort / jene Stelle
+我在这儿	wǒzàizhèr<br /><br /><br />Ich bin hier.
+我去那儿。	wǒqùnàr<br /><br /><br />Ich gehe dort hin.
+你多大？	nǐ duō dà<br /><br /><br />Wie alt bist du?
+我二十四岁。	wǒ èrshísì suì<br /><br /><br />Ich bin 24 Jahre alt.
+你多高？	nǐ duō gāo<br /><br /><br />Wie gross bist du?
+我一米七八。	wǒ yī mǐ qībā<br /><br /><br />Ich bin 1,78 Meter gross.
+坐	zuò<br /><br /><br />sitzen
+请坐。	qǐngzuò<br /><br /><br />Bitte nehmen Sie Platz.
+用	yòng<br /><br /><br />gebrauchen / verwenden / brauchen<br />mit (Präp.)
+不用谢	bùyòngxiè<br /><br /><br />Sie brauchen nicht zu danken.
+不谢	bùxiè<br /><br /><br />Nichts zu danken.
+客	kè<br /><br /><br />der Besucher / der Kunde / höflich
+不客气。	bùkèqi<br /><br /><br />Bitte schön. / Gern geschehen.
+起	qǐ<br /><br /><br />anfangen / aufstehen / entstehen
+对不起。	duìbùqǐ<br /><br /><br />Entschuldigung.
+没	méi<br /><br /><br />kein ... haben / nicht existieren / nicht geben
+关	guān<br /><br /><br />zusperren / schliessen
+系	xì<br /><br /><br />angehen / betreffen / binden
+关系	guānxi<br /><br /><br />die Bedeutung / die Beziehung / Vitamin B
+没关系。	méiguānxi<br /><br /><br />Macht nichts. / Keine Ursache.
+很多	hěnduō<br /><br /><br />viele (im Satzbau)
+我认识很多人。	wǒ rènshi hěnduō rén<br /><br /><br />Ich kenne viele Menschen.
+你认识这个字马？	nǐ rènshi zhègè zì ma<br /><br /><br />Kennst du dieses Zeichen?
+... 怎么写？	... zěnme xiě<br /><br /><br />Wie schreibt man ... ?
+写	xiě<br /><br /><br />schreiben
+这个字怎么写？	zhègè zì zěnme xiě<br /><br /><br />Wie schreibt man dieses Zeichen?
+写汉字	xiěhànzì<br /><br /><br />Chinesische Zeichen schreiben
+儿子	érzi<br /><br /><br />der Sohn
+女儿	nǚér<br /><br /><br />die Tochter
+几	jǐ<br /><br /><br />wie viel (kleine Mengen)<br />kleiner Tisch
+费	fèi<br /><br /><br />Gebühr / Kosten / aufwenden / ausgeben
+小费	xiǎofèi<br /><br /><br />das Trinkgeld
+学费	xuéfèi<br /><br /><br />die Studiengebühr
+不要钱。	bùyàoqián<br /><br /><br />Kostet nichts. (Umgangssprachlich)
+下雨了。	xià yǔ le<br /><br /><br />Es regnet.
+木	mu<br /><br /><br />Baum
+目	mu<br /><br /><br />Auge
+先 ... 然后 ... 最后	xiān ... ránhòu ... zuìhòu<br /><br /><br />zuerst ... dann ... zum Schluss
+先	xiān<br /><br /><br />zuerst
+然后	ránhòu<br /><br /><br />dann / danach
+后	hòu<br /><br /><br />hinten / nach
+最后	zuìhòu<br /><br /><br />zum Schluss / schliesslich / schlussendlich
+看	kàn<br /><br /><br />schauen / sehen / lesen
+书	shū<br /><br /><br />das Buch
+看书	kànshū<br /><br /><br />ein Buch lesen
+想	xiǎng<br /><br /><br />an jmd. denken / vermissen / möchten
+你要在哪儿生活？	nǐ yào zài nǎr shēnghuó<br /><br /><br />Wo willst du leben?
+生活	shēnghuó<br /><br /><br />das Leben / leben
+生	shēng<br /><br /><br />die Geburt / gebären
+活	huó<br /><br /><br />leben
+你要在哪儿生活？	nǐ yào zài nǎr shēng huó<br /><br /><br />Wo willst du leben?
+你想在那儿生活？	nǐ xiǎng zài nǎr shēng huó<br /><br /><br />Wo möchtest du leben?
+上大学	shàng dàxué<br /><br /><br />zur Universität gehen / die Universität besuchen
+南	nán<br /><br /><br />Süden
+北	běi<br /><br /><br />Norden
+西南	xi nán<br /><br /><br />Südwesten
+瓜	guā<br /><br /><br />Melone
+南瓜	nán guā<br /><br /><br />Kürbis
+籽	zǐ<br /><br /><br />Kern / Samen
+油	yóu<br /><br /><br />Öl / Benzin / Fett
+南瓜籽油	nánguāzǐ yóu<br /><br /><br />Kürbiskernöl
+黄瓜	huáng guā<br /><br /><br />Gurke
+西瓜	xi guā<br /><br /><br />Wassermelone
+黄油	huáng yóu<br /><br /><br />Butter
+叶	yè<br /><br /><br />Blatt
+茶叶	chà yè<br /><br /><br />Teeblätter
+杯	bēi<br /><br /><br />Tasse / Glas
+茶杯	chà bēi<br /><br /><br />Teeschale
+干杯	gān bēi<br /><br /><br />Prost! (auf Ex!)
+干	gān<br /><br /><br />trocken
+衣服	yī fu<br /><br /><br />Gewand / Bekleidung
+T恤衫	tī xù shān<br /><br /><br />T-Shirt
+衫	shān<br /><br /><br />Hemd
+T	tī<br /><br /><br />englischer Buchstabe 'T'
+书法作品	shū fǎ zuò pǐn<br /><br /><br />Kalligrafie-Werk
+作品	zuò pǐn<br /><br /><br />Werk
+工作	gōng zuò<br /><br /><br />arbeiten / die Arbeit
+我去中国工作。	wǒ qù zhōngguó gōngzuò<br /><br /><br />Ich fahre nach China um zu arbeiten.
+这么	zhème<br /><br /><br />so ...
+这么贵。	zhème guì<br /><br /><br />So teuer.
+人民	rénmín<br /><br /><br />das Volk
+币	bì<br /><br /><br />die Währung
+人民币	rénmínbì<br /><br /><br />Volkswährung (Währung in China)
+元	yuán<br /><br /><br />ZEW für Geld, Grundeinheit
+角	jiǎo<br /><br /><br />ZEW für Geld, 1/10 des 元
+分	fēn<br /><br /><br />ZEW für Geld, 1/100 des 元<br />ZEW für Minuten<br />der Teil<br />teilen
+分手	fēnshǒu<br /><br /><br />sich trennen / sich verabschieden
+块	kuài<br /><br /><br />ZEW für Geld, umgangssprachlich für 元<br />das Stück
+毛	máo<br /><br /><br />ZEW für Geld, umgangssprachlich für 角 (1/10 des 元)<br />das Haar
+毛衣	máoyī<br /><br /><br />der Pullover
+手机号	shǒujī hào<br /><br /><br />die Sim-Karte
+买一送一	mǎi yī sòng yī<br /><br /><br />eines kaufen, eines geschenkt bekommen (Aktion in chinesischen Geschäften)
+送	sòng<br /><br /><br />schenken / jmd. fahren
+包子	bāozi<br /><br /><br />Teigtasche
+值	zhí<br /><br /><br />etw. wert sein
+值钱	zhíqián<br /><br /><br />wertvoll
+开	kāi<br /><br /><br />öffnen
+始	shǐ<br /><br /><br />der Anfang / anfangen / beginnen
+开始	kāi shǐ<br /><br /><br />mit etw. anfangen / der Beginn / die Eröffnung
+课	kè<br /><br /><br />die Lektion / der Unterricht / das Fach
+上课	shàng kè<br /><br /><br />den Unterricht beginnen / Unterricht haben / Unterricht geben
+下课	xià kè<br /><br /><br />den Unterricht beenden
+中文课	zhōng wén kè<br /><br /><br />der Chinesisch-Unterricht/-Kurs
+换	huàn<br /><br /><br />wechseln / tauschen
+换钱	huàn qián<br /><br /><br />Geld wechseln / der Geldumtausch
+你看什么书?	nǐ kàn shénme shū<br /><br /><br />Welches Buch liest du?
+小说	xiǎo shuō<br /><br /><br />der Roman / die Erzählung
+很行	hěn xíng<br /><br /><br />super / toll / kompetent
+上衣	shàng yī<br /><br /><br />Oberbekleidung
+你在哪儿工作？	nǐ zài nǎr gōng zuò<br /><br /><br />Wo arbeitest du?
+现在几点？	xiànzài jǐ diǎn<br /><br /><br />Wie spät ist es?
+点	diǎn<br /><br /><br />der Punkt / die Uhr / der Zeitpunkt / ZEW für Vorschläge
+差	chà<br /><br /><br />fehlen
+差五分(钟)七点。	chà wǔ fēn (zhōng) qī diǎn<br /><br /><br />Es ist 5 vor 7 Uhr (&quot;Es fehlen 5 Minuten auf 7 Uhr&quot;).
+钟	zhōng<br /><br /><br />die Uhr
+分钟	fēn zhōng<br /><br /><br />die Minute
+刻	kè<br /><br /><br />die Viertelstunde
+一刻	yī kè<br /><br /><br />Viertel nach / + 15 Minuten
+三刻	sān kè<br /><br /><br />+ 45 Minuten
+半	bàn<br /><br /><br />halb / die Hälfte / zur Hälfte
+现在六点。	xiànzài liù diǎn<br /><br /><br />Es ist 6 Uhr.
+现在六点一刻。	xiànzài liùdiǎn yīkè<br /><br /><br />Es ist 6.15 Uhr.
+六点三刻	liùdiǎn sǎnkè<br /><br /><br />6.45 Uhr
+六点半	liùdiǎn bàn<br /><br /><br />halb 7 Uhr
+差不多	chàbùduō<br /><br /><br />ungefähr
+梨	lí<br /><br /><br />die Birne
+我们分一个梨。	wǒmen fēn yīgè lí<br /><br /><br />Wir teilen eine Birne.
+分离	fēn lí<br /><br /><br />sich trennen / scheiden
+钟	zhōng<br /><br /><br />Wanduhr
+终	zhōng<br /><br /><br />das Ende
+送终	sòng zhōng<br /><br /><br />jemandem die letzte Ehre erweisen<br /><br />Aussprache ident mit 送钟 weshalb man keine Wanduhr schenken sollte ...
+手表	shǒu biǎo<br /><br /><br />die Armbanduhr
+时候	shí hou <br /><br /><br />der Moment / der Zeitpunkt
+什么时候	shénme shíhou<br /><br /><br />Wann?<br />irgendwann / irgendwann mal
+你什么时候去中国？	nǐ shénme shíhou qù zhōngguó<br /><br /><br />Wann fahrst du nach China?
+今天几月几号？	jīntiān jǐyuè jǐhào<br /><br /><br />Welcher Tag ist heute? (Datum)
+几月	jǐ yuè<br /><br /><br />Welcher Monat?
+一月	yī yuè<br /><br /><br />Jänner
+六月	liù yuè<br /><br /><br />Juni
+五个月	wǔgè yuè<br /><br /><br />5 Monate
+你去哪儿？	nǐ qù nǎr<br /><br /><br />Wohin gehst du?
+今天是二〇一二年三月二十六号。	jīntiān shì èrlíngyīèrniàn sānyuè èrshíliùhào<br /><br /><br />Heute ist der 26. 3. 2012.
+今年	jīn nián<br /><br /><br />dieses Jahr / heuer
+去年	qù nián<br /><br /><br />letztes Jahr / vergangenes Jahr
+明年	míng nián<br /><br /><br />nächstes Jahr
+时间	shí jiān<br /><br /><br />die Zeit
+有时间	yǒu shíjiān<br /><br /><br />Zeit haben
+我有很多时间。	wǒ yǒu hěn duō shí jiān<br /><br /><br />Ich habe viel Zeit.
+太多了	tài duō le<br /><br /><br />zu viel
+有时候	yǒu shíhou<br /><br /><br />manchmal
+我有时候 ..., 有时候 ... 。	wǒ yǒushíhou ..., yǒushíhou ... .<br /><br /><br />Ich mache manchmal ..., manchmal ... .
+银	yín<br /><br /><br />das Silber
+行	háng<br /><br /><br />die Reihe / die Branche
+银行	yínháng<br /><br /><br />die Bank / das Geldinstitut
+每	měi<br /><br /><br />je / jeder / per / pro
+每年	měi nián<br /><br /><br />jedes Jahr
+每个月	měi gè yuè<br /><br /><br />jeden Monat
+星	xīng<br /><br /><br />der Stern
+期	qī<br /><br /><br />die Periode / die Dauer / die Nummer von Zeitschriften o. Ä.
+星期	xīngqī<br /><br /><br />die Woche
+学期	xuéqī<br /><br /><br />das Semester
+每天	měi tiān<br /><br /><br />jeden Tag
+小时	xiǎoshí<br /><br /><br />die Stunde
+每个小时	měigè xiǎoshí<br /><br /><br />jede Stunde
+常	cháng<br /><br /><br />oft / häufig / ständig
+常常	chángcháng<br /><br /><br />öfters / häufig / normalerweise
+考	kǎo<br /><br /><br />prüfen
+试 	shì<br /><br /><br />versuchen / probieren
+考试	kǎoshì<br /><br /><br />die Prüfung / prüfen
+我有一门考试。	wǒ yǒu yīmén kǎoshì<br /><br /><br />Ich habe eine Prüfung.
+今天几月几号？	jīntiān jǐyuè jǐhào<br /><br /><br />Welches Datum ist heute?
+四月二十三号。	sìyuè èrshísānhào<br /><br /><br />Heute ist der 23. 4.
+现在几点？	xiànzài jǐdiǎn<br /><br /><br />Wie spät ist es jetzt?
+今天星期几？	jīntiān xīngqī jǐ<br /><br /><br />Welchen Wochentag haben wir heute?
+星期一	xīngqī yī<br /><br /><br />Montag
+星期二	xīngqī èr<br /><br /><br />Dienstag
+星期天	xīngqī tiān<br /><br /><br />Sonntag
+星期日	xīngqī rì<br /><br /><br />Sonntag
+两点	liǎngdiǎn<br /><br /><br />2 Uhr
+还是	háishì<br /><br /><br />oder (bei Alternativ-Fragen)
+回	huí<br /><br /><br />zurückkehren
+家	jiā<br /><br /><br />die Familie / das Heim
+回家	huí jiā<br /><br /><br />heimkehren / heimkommen / die Heimkehr
+我回国。	wǒ huí guó<br /><br /><br />Ich kehre in mein Heimatland zurück.
+课	kè<br /><br /><br />der Unterricht / die Lektion / der Kurs
+上课	shàngkè<br /><br /><br />Unterricht haben / am Unterricht teilnehmen / Unterricht geben
+下课	xiàkè<br /><br /><br />den Unterricht beenden
+遍	biàn<br /><br /><br />...mal / ZEW für Handlungen
+一遍	yī biàn<br /><br /><br />ein Mal / einmal
+请在说一遍。	qǐng zài shuō yī biàn<br /><br /><br />Bitte sagen Sie noch einmal.
+慢	màn<br /><br /><br />langsam
+情说慢点儿。	qǐng shuō màndiǎr<br /><br /><br />Bitte sprechen Sie ein bisschen langsamer.
+会	huì<br /><br /><br />können (Fähigkeit)
+我会写汉字。	wǒ huì xiě hànzì<br /><br /><br />Ich kann chinesische Schriftzeichen schreiben.
+你会不会写汉字？	nǐ huì bù huì xiě hànzì<br /><br /><br />Kannst du chinesische Schriftzeichen schreiben?
+可是	kěshì<br /><br /><br />aber / jedoch
+但是	dànshì<br /><br /><br />aber / dennoch
+筷子	kuàizi<br /><br /><br />das Essstäbchen
+我会用筷子吃饭。	wǒ huì yòng kuàizi chīfàn<br /><br /><br />Ich kann mit Essstäbchen essen.
+叉	chā<br /><br /><br />Gabel
+刀叉	dāochā<br /><br /><br />das Besteck / Messer und Gabel
+件	jiàn<br /><br /><br />ZEW für Kleidungsstücke
+衬衫	chènshān<br /><br /><br />die Bluse / das Hemd
+两件衬衫	liǎng jiàn chènshān<br /><br /><br />2 Hemden / 2 Blusen
+裤子	kùzi<br /><br /><br />die Hose
+条	tiáo<br /><br /><br />ZEW für schmale und lange Kleidungsstücke / Gegenstände
+一条裤子	yītiáo kùzi<br /><br /><br />1 Hose
+裙子	qúnzi<br /><br /><br />der Rock
+一条裙子	yītiáo qúnzi<br /><br /><br />1 Rock
+迷你裙	mínǐqún<br /><br /><br />der Minirock
+牛仔	niúzǎi<br /><br /><br />der Cowboy
+牛仔裤	niúzǎikù<br /><br /><br />die Jeans
+商	shāng<br /><br /><br />der Handel / der Händler
+店	diàn<br /><br /><br />das Geschäft / der Laden
+商店	shāngdiàn<br /><br /><br />das Geschäft / der Laden
+酒吧	jiǔbā<br /><br /><br />die Bar / die Kneipe (phonetisch)
+我在酒吧工作。	wǒ zài jiǔbā gōngzuò<br /><br /><br />Ich arbeite in einer Bar.
+我什么都不买。	wǒ shénmedōu bù mǎi<br /><br /><br />Ich kaufe gar nichts.
+我什么都不吃。	wǒ shénmedōu bù chī<br /><br /><br />Ich esse gar nichts.
+我什么都吃。	wǒ shénmedōu chī<br /><br /><br />Ich esse alles.
+只	zhǐ<br /><br /><br />nur (immer vor dem Verb)
+只	zhī<br /><br /><br />ZEW für Tiere
+一只鸟	yīzhī niǎo<br /><br /><br />1 Vogel
+两只老虎	liǎngzhī lǎohǔ<br /><br /><br />2 Tiger
+售	shòu<br /><br /><br />verkaufen (gehobener als 卖)
+货	huò<br /><br /><br />die Ware
+员	yuán<br /><br /><br />der Angestellte
+售货员	shòuhuòyuán<br /><br /><br />der Verkäufer
+顾客	gùkè<br /><br /><br />der Kunde
+迎	yíng<br /><br /><br />entgegenkommen
+欢迎	huānyíng<br /><br /><br />grüßen / willkommen heißen / Willkommen!
+光	guāng<br /><br /><br />die Ehre / der Glanz / das Licht
+光临	guānglín<br /><br /><br />der Besuch / die Kundschaft
+欢迎光临。	huānyíng guānglín<br /><br /><br />Herzlich willkommen! (Begrüssung in Geschäftern)
+开门	kāimén<br /><br /><br />öffnen / die Tür öffnen
+关门	guānmén<br /><br /><br />schließen
+开关	kāiguān<br /><br /><br />der Schalter
+折	zhé<br /><br /><br />falten (Papier)
+打折	dǎzhé<br /><br /><br />Rabatt geben
+有没有打折？	yǒu méi yǒu dǎzhé<br /><br /><br />Gibt es Rabatt?
+打几折？	dǎ jǐ zhé<br /><br /><br />Wieviel Rabatt gibt es?
+打七折	dǎ qī zhé<br /><br /><br />-30% (7 von 10 zu zahlen)
+板	bǎn<br /><br /><br />das Brett
+老板	lǎobǎn<br /><br /><br />der Chef
+已经	yǐjīng<br /><br /><br />bereits / schon
+可以	kěyǐ<br /><br /><br />dürfen / die Erlaubnis haben / können
+我可以试一试吗？	wǒ kěyǐ shìyīshì ma<br /><br /><br />Darf ich mal probieren?
+这条裤子为什么这么贵？	zhètiáo kùzi wèishénme zhème guì<br /><br /><br />Warum ist diese Hose so teuer?
+牌	pái<br /><br /><br />die Marke
+名牌	míngpái<br /><br /><br />bekannte Marke
+片	piàn<br /><br /><br />die Scheibe / ZEW für scheibenförmige Gegenstände
+牌子	páizi<br /><br /><br />das Schild / die Marke
+能	néng<br /><br /><br />können
+能不能在便宜一点儿？	néngbùnéng zài piányi yīdiǎr<br /><br /><br />Können Sie das noch etwas billiger machen?
+已经很便宜了。	yǐjīng hěn piányi le<br /><br /><br />Es ist bereits sehr billig.
+吧	ba<br /><br /><br />Finalpartikel bei Aufforderungen oder Vermutungen
+好吧	hǎobā<br /><br /><br />Tja!
+下(个)星期	xià gè xīngqī<br /><br /><br />nächste Woche
+上(个)星期	shànggè xīngqī<br /><br /><br />letzte Woche
+这个星期	zhègè xīngqī<br /><br /><br />diese Woche
+忘	wàng<br /><br /><br />vergessen
+我忘了。	wǒ wàng le<br /><br /><br />Ich habe alles vergessen.
+你下个星期有几门考试？	nǐ xiàgè xīngqī yǒu jǐmén kǎoshì<br /><br /><br />Wieviele Prüfungen hast du nächste Woche?
+给	gěi<br /><br /><br />an / für / zu (Präposition)<br />geben
+打电话	dǎ diànhuà<br /><br /><br />telefonieren / anrufen
+我给你打电话。	wǒ gěi nǐ dǎ diànhuà<br /><br /><br />Ich rufe dich an.
+住在	zhùzài<br /><br /><br />wohnen in / leben in
+你住在哪儿？	nǐ zhùzài nǎr <br /><br /><br />Wo wohnst du?
+友好	yǒuhǎo<br /><br /><br />freundlich / gastfreundlich
+新	xīn<br /><br /><br />neu / frisch
+闻	wén<br /><br /><br />hören
+新闻	xīnwén<br /><br /><br />Nachrichten / Neuigkeiten
+口语	kǒuyǔ<br /><br /><br />gesprochene Sprache / Umgangssprache
+语法	yǔfǎ<br /><br /><br />die Grammatik
+路	lù<br /><br /><br />der Weg / die Strasse
+街	jiē<br /><br /><br />(breite) Strasse
+街道	jiēdào<br /><br /><br />Straße / Weg
+光碟	guāngdié<br /><br /><br />die DVD
+碟	dié<br /><br /><br />die Platte / der Teller
+盘	pán<br /><br /><br />die Platte / der Teller
+光盘	guāngpán<br /><br /><br />die CD
+张	zhāng<br /><br /><br />ZEW für dünne flache Gegenstände
+花	huā<br /><br /><br />die Blume / blühen
+花钱	huāqián<br /><br /><br />Geld ausgeben
+花时间	huā shíjiān<br /><br /><br />Zeit verbringen
+帅	shuài<br /><br /><br />gutaussehend / fesch (Männer)
+当然	dāngrán<br /><br /><br />natürlich / selbstverständlich / sicherlich
+丝绸	sīchóu<br /><br /><br />die Seide / der Seidenstoff
+... 用中文怎么说？	... yòng zhōngwén zěnme shuō<br /><br /><br />Wie sagt man ... auf Chinesisch?
+作业	zuòyè<br /><br /><br />Übung / Hausübung / Aufgabe
+做作业	zuò zuòyè<br /><br /><br />Hausübung machen
+交作业	jiāo zuòyè<br /><br /><br />Hausübung abgeben
+交	jiāo<br /><br /><br />abgeben / bezahlen / aushändigen
+公	gōng<br /><br /><br />öffentlich / fair / männlich (bei Tieren)<br />alter Mann
+斤	jīn<br /><br /><br />das Pfund / halbes Kilo
+公斤	gōngjīn<br /><br /><br />das Kilogramm
+食	shí<br /><br /><br />Getreide / Nahrung / Lebensmittel / essen / speisen
+堂	táng<br /><br /><br />Saal
+食堂	shítáng<br /><br /><br />die Mensa / die Kantine
+好吃。	hǎochī<br /><br /><br />Schmeckt gut. / gut schmecken
+好看	hǎokàn<br /><br /><br />gutaussehend
+火车	huǒchē<br /><br /><br />die Eisenbahn / der Zug
+坐火车	zuò huǒchē<br /><br /><br />mit dem Zug fahren
+坐车	zuòchē<br /><br /><br />mit dem Auto fahren
+你家有几口人？	nǐ jiā yǒu jǐkǒu rén<br /><br /><br />Wieviele Familienmitglieder hast du (im Haushalt)?
+哥哥	gēge<br /><br /><br />älterer Bruder
+兄	xiōng<br /><br /><br />älterer Bruder
+弟弟	dìdi<br /><br /><br />jüngerer Bruder
+姐姐	jiějie<br /><br /><br />ältere Schwester
+妹妹	mèimei<br /><br /><br />jüngere Schwester
+兄弟姐妹	xiōng dì jiě mèi<br /><br /><br />Geschwister
+孩子	háizi<br /><br /><br />das Kind
+女孩子	nǚháizi<br /><br /><br />das Mädchen
+女孩儿	nǚhár<br /><br /><br />das Mädchen
+男孩子	nánháizi<br /><br /><br />der Bub
+男孩儿	nánhár<br /><br /><br />der Bub
+想要	xiǎngyào<br /><br /><br />möchten / mögen
+我想要两个孩子。	wǒ xiǎngyào liǎnggè háizi<br /><br /><br />Ich möchte 2 Kinder haben.
+奶奶	nǎinai<br /><br /><br />die Grossmutter väterlicherseits
+爷爷	yéye<br /><br /><br />der Grossvater väterlicherseits
+牛奶	niúnǎi<br /><br /><br />die Milch (von der Kuh)
+婆	pó<br /><br /><br />alte Frau
+外婆	wàipó<br /><br /><br />die Grossmutter mütterlicherseits
+外公	wàigōng<br /><br /><br />der Grossvater mütterlicherseits
+姥姥	lǎolǎo<br /><br /><br />die Grossmutter mütterlicherseits (in Nord-China)
+老婆	lǎopó<br /><br /><br />die Ehefrau (umgangssprachlich; &quot;die Alte&quot;)
+老公	lǎogōng<br /><br /><br />der Ehemann (umgangssprachlich; &quot;der Alte&quot;)
+怕老婆	pà lǎopó<br /><br /><br />der Pantoffelheld / ein Pantoffelheld sein
+怕	pà<br /><br /><br />Angst haben / fürchten / befürchten
+我谁都不怕。	wǒ shéidōubù pà<br /><br /><br />Ich habe vor gar niemandem Angst.
+蜘蛛	zhīzhū<br /><br /><br />die Spinne
+有的	yǒude<br /><br /><br />manche / einige
+先生	xiānsheng<br /><br /><br />der Herr (Anrede immer hinter dem Namen)
+上学	shàngxué<br /><br /><br />zur Schule gehen
+专业	zhuānyè<br /><br /><br />die Studienrichtung / die Fachrichtung
+跟(和)	gēn(hé)<br /><br /><br />mit (jemandem)
+过	guò<br /><br /><br />verbringen / haben
+生日	shēngrì<br /><br /><br />der Geburtstag
+过生日	guò shēngrì<br /><br /><br />Geburtstag haben / Geburtstag verbringen
+你什么时候过生日？	nǐ shénme shíhou guò shēngrì<br /><br /><br />Wann hast du Geburtstag?
+你几月几号过生日？	nǐ jǐyuè jǐhào guò shēngrì<br /><br /><br />Wann hast du Geburtstag?
+我请我朋友(去)吃饭。	wǒ qǐng wǒpéngyou qù chīfàn<br /><br /><br />Ich lade meine Freunde zum Essen (gehen) ein.
+物	wù<br /><br /><br />der Gegenstand / das Ding / die Sache
+礼	lǐ<br /><br /><br />höflich
+礼物	lǐwù<br /><br /><br />das Geschenk
+他送给你什么礼物？	tā sòng gěi nǐ shénme lǐwù<br /><br /><br />Was schenkt er dir?
+他送给了你什么礼物？	tā sòng gěi le nǐ shénme lǐwù<br /><br /><br />Was hat er dir geschenkt?
+祝	zhù<br /><br /><br />wünschen
+快	kuài<br /><br /><br />schnell
+乐	lè<br /><br /><br />die Freude
+快乐	kuàilè<br /><br /><br />die Freude / fröhlich / glücklich
+祝你生日快乐！	zhù nǐ shēngrì kuàilè<br /><br /><br />Alles Gute zum Geburtstag!
+蛋	dàn<br /><br /><br />das Ei
+糕	gāo<br /><br /><br />Kuchen
+蛋糕	dàngāo<br /><br /><br />der Kuchen / die Torte
+生日蛋糕	shēngrì dàngāo<br /><br /><br />die Geburtstagstorte
+客人	kèrén<br /><br /><br />der Gast / der Besuch
+请客人	qǐng kèrén<br /><br /><br />Gäste einladen
+请客	qǐngkè<br /><br /><br />einladen / bezahlen
+还可以	hái kěyǐ<br /><br /><br />Es geht. / Geht noch. / einigermassen / so lala
+网吧	wǎngbā<br /><br /><br />das Internetcafé
+公司	gōngsī<br /><br /><br />die Firma
+我在一个公司工作。	wǒ zài yīgè gōngsī gōngzuò<br /><br /><br />Ich arbeite in einer Firma.
+西门子	xīménzǐ<br /><br /><br />Siemens
+我在西门子公司工作。	wǒ zài xīménzǐ gōngsī gōngzuò<br /><br /><br />Ich arbeite bei der Firma Siemens.
+我明年在西门子公司工作六个月。	wǒ míngnián zài xīménzǐ gōngsī gōngzuò liùgèyuè<br /><br /><br />Ich arbeite nächstes Jahr für 6 Monate bei der Firma Siemens.
+长	cháng<br /><br /><br />lang / stetig
+多长时间？	duō cháng shíjiān<br /><br /><br />Wie lange? (Zeitdauer)
+赛	sài<br /><br /><br />der Wettbewerb / der Wettkampf
+足球赛	zúqiúsài<br /><br /><br />das Fussballspiel
+欧洲杯	ōuzhōubēi<br /><br /><br />der Europa-Cup / die Europa-Meisterschaft
+欧洲杯足球赛	ōuzhōubēi zúqiúsài<br /><br /><br />die Fussball-Europa-Meisterschaft
+班	bān<br /><br /><br />die Klasse / die Gruppe
+西班牙	xībānyá<br /><br /><br />Spanien
+队	duì<br /><br /><br />die Mannschaft / das Team
+意大利队对西班牙队	yìdàlìduì duì xībānyáduì<br /><br /><br />Italien gegen Spanien (Mannschaften)
+比	bǐ<br /><br /><br />im Vergleich zu   (besser/grösser/weiter/etc. immer zuerst)<br />vergleichen<br />der Vergleich / das Verhältnis
+中国比德国大。	zhōngguó bǐ déguó dà<br /><br /><br />China ist grösser als Deutschland.
+我比他好。	wǒ bǐ tā hǎo<br /><br /><br />Ich bin besser als er.
+几比几？	jǐ bǐ jǐ<br /><br /><br />Wieviel zu wieviel? (Spielstand bei Match)
+一比一。	yī bǐ yī<br /><br /><br />1 zu 1 (Spielstand bei Match)
+...属	shǔ<br /><br /><br />zu ... gehörend (Staaten, Völker, Tierkreiszeichen, etc.)
+你属什么？	nǐ shǔ shénme<br /><br /><br />In welchem Tierkreiszeichen bzw. Jahr bist du geboren?
+羊	yáng<br /><br /><br />das Schaf / die Ziege
+狗	gǒu<br /><br /><br />der Hund
+龙	lóng<br /><br /><br />der Drache
+别人	biérén<br /><br /><br />Leute / die Anderen / der Andere
+笔	bǐ<br /><br /><br />der Stift
+毛笔	máobǐ<br /><br /><br />der Pinsel
+书包	shūbāo<br /><br /><br />die Mappe / die Schultasche
+工具	gōngjù<br /><br /><br />das Werkzeug / das Gerät / das Instrument
+言	yán<br /><br /><br />das Wort
+语言	yǔyán<br /><br /><br />Oberbegriff für Sprache
+听	tīng<br /><br /><br />hören / zuhören
+听说	tīngshuō<br /><br /><br />vom Hörensagen wissen / etwas gesagt bekommen
+第	dì<br /><br /><br />Partikel zur Bildung von Ordinalzahlen
+第一	dì yī<br /><br /><br />der Erste
+空	kōng<br /><br /><br />leer
+太空	tàikōng<br /><br /><br />das All / das Weltall / der Weltraum
+太空人	tàikōngrén<br /><br /><br />der Taikonaut
+呆	dāi<br /><br /><br />dumm / idiotisch
+待	dāi<br /><br /><br />bleiben / sich aufhalten
+非	fēi<br /><br /><br />nicht / nicht sein
+非常	fēicháng<br /><br /><br />äußerst / außergewöhnlich
+下三个星期	xià sāngè xīngqī<br /><br /><br />die nächsten 3 Wochen
+级	jí<br /><br /><br />die Stufe
+一年级	yī nián jí<br /><br /><br />die 1. Klasse / das 1. Semester (auf der Uni)
+上三年级	shàng sān nián jí<br /><br /><br />die 3. Klasse besuchen
+科学	kēxué<br /><br /><br />die Wissenschaft / wissenschaftlich
+科学技术	kēxué jìshù<br /><br /><br />technische Wissenschaften
+科技	kējì<br /><br /><br />technische Wissenschaften
+文科	wénkē<br /><br /><br />Geisteswissenschaften
+理科	lǐkē<br /><br /><br />Naturwissenschaften
+工科	gōngkē<br /><br /><br />Ingenieurswissenschaften
+数	shù<br /><br /><br />die Zahl / die Ziffer
+数学	shùxué<br /><br /><br />die Mathematik
+化	huà<br /><br /><br />umwandeln / verwandeln
+化学	huàxué<br /><br /><br />die Chemie
+理	lǐ<br /><br /><br />die Ordnung / die Logik / die Vernunft
+物理	wùlǐ<br /><br /><br />die Physik
+数理化	shùlǐhuà<br /><br /><br />Mathematik, Physik und Chemie
+真	zhēn<br /><br /><br />echt / wirklich
+小姐	xiǎojiě<br /><br /><br />Fräulein
+过奖	guòjiǎng<br /><br /><br />übertriebenes Lob
+您过奖了！	nín guòjiǎng le<br /><br /><br />Sie übertreiben! (Zurückweisung auf ein Kompliment)
+到	dào<br /><br /><br />ankommen / eintreffen
+从...到...	cóng ... dào ...<br /><br /><br />von ... bis ... (Zeit / Ort)
+看到	kàndào<br /><br /><br />etwas erblicken / sehen
+学到	xuédào<br /><br /><br />erlernen / gelernt haben
+共	gòng<br /><br /><br />allgemein / gemeinsam / zusammen
+一共	yīgòng<br /><br /><br />insgesamt / unterm Strich
+一共多少钱？	yīgòng duōshǎo qián<br /><br /><br />Was kostet es insgesamt?
+父	fù<br /><br /><br />der Vater
+母	mǔ<br /><br /><br />die Mutter
+亲	qīn<br /><br /><br />blutsverwandt / persönlich / intim
+父母(亲)	fù mǔ (qīn)<br /><br /><br />die Eltern
+派对	pàiduì<br /><br /><br />die Party
+价格	jiàgé<br /><br /><br />der Preis
+笨	bèn<br /><br /><br />dumm / einfältig / trottelig
+笨蛋	bèndàn<br /><br /><br />dummes Ei / Dummkopf / Blödian / Depp
+正	zhèng<br /><br /><br />gerade / aufrecht / eben <br />vollständig / gerecht / richtig<br /><br /><br />5 Striche bei Stricherlliste<br /><br />
+正好	zhènghǎo<br /><br /><br />genau richtig
