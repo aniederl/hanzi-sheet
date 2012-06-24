@@ -2,4 +2,5 @@ zhongwen.tex
 zhongwen.txt.tex
 *.log
 *.tuc
+*.top
 *.pdf

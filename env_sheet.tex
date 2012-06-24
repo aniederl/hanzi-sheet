@@ -11,7 +11,8 @@
 \usemodule[simplefonts]
 
 %% enter font to be used here
-\setmainfont[stkaiti]
+%\setmainfont[stkaiti]
+%\setmainfont[ukaicn]
 
 \setupbodyfont[base, 12pt]
 \setuppagenumber[state=start]
@@ -20,11 +21,14 @@
 
 
 %% Change for different size:
-\def\kanjisize{15mm}
+\def\symbolsize{15mm}
 \def\readingsize{4mm}
-\definefont[bigfont][Regular at \kanjisize]
-\definefont[smallfont][Regular at \readingsize]
-\definefont[smallfontbold][RegularBold at \readingsize]
+
+\definefont[bigfont][name:stkaiti at \symbolsize]
+\definefont[descfont][name:stkaiti at \readingsize]
+\definefont[readfont][RegularBold at \readingsize]
+\definefont[translfont][Regular at \readingsize]
+
 
 \startuseMPgraphic{line}
   pickup pencircle scaled .7pt;
@@ -32,7 +36,7 @@
   c=\sometxt{\MPvar{c}};
   color grey;
   grey=0.8*white;
-  draw unitsquare scaled \kanjisize\space withcolor 0.25white;
+  draw unitsquare scaled \symbolsize\space withcolor 0.25white;
   pickup pencircle scaled 0.5pt;
   draw .5[llcorner currentpicture,lrcorner currentpicture] --
     .5[ulcorner currentpicture,urcorner currentpicture]
@@ -82,19 +86,18 @@
     \setvariables[line][description=#1]
     \setvariables[line][symbol=#2]
     \setvariables[line][reading=#3]
-    \setvariables[line][translation=#4]
+    \setvariables[line][translation={#4}]
   \else
     \setvariables[line][description=#1]
     \setvariables[line][symbol=#1]
     \setvariables[line][reading=#2]
-    \setvariables[line][translation=#3]
+    \setvariables[line][translation={#3}]
   \fi
   \startlines
   \par
-  \smallfont
-  \getvariable{line}{description} --
-  {\smallfontbold \getvariable{line}{reading}} --
-  \getvariable{line}{translation}
+  {\descfont   \getvariable{line}{description}} --
+  {\readfont   \getvariable{line}{reading}} --
+  {\translfont \getvariable{line}{translation}}
   \par
   \leavevmode
   \bigfont
